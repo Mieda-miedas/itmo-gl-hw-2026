@@ -7,6 +7,9 @@ This project is based on [mse-gl-hw-template](https://github.com/sadads1337/mse-
 Qt based demo project to demonstrate how to use and implement basic 3D graphics features.
 No optimizations exists. Use only for educational purposes.
 
+## changes for create a pr
+
+
 ## Purposes
 
 Help students with their submission is the main goal of this repository. Do not use this code in production!!!
